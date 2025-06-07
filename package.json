@@ -1,0 +1,11 @@
+{
+  "author": {
+    "name": "Matthew Miner",
+    "email": "matthew@matthewminer.com"
+  },
+  "description": "Wraps Unity's allocation-free physics intersection functions.",
+  "displayName": "NonAlloc Physics Wrapper",
+  "name": "com.matthewminer.nonalloc-physics-wrapper",
+  "unity": "2021.3",
+  "version": "1.0.0"
+}
